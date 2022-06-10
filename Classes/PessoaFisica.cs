@@ -8,11 +8,6 @@ namespace UC12_BackEnd.Classes
 
         public string? Name { get; set; }
 
-        public PessoaFisica(DateTime dataNasc)
-        {
-            this.DataNasc = dataNasc;
-
-        }
         public DateTime DataNasc { get; set; }
 
 
@@ -40,7 +35,7 @@ namespace UC12_BackEnd.Classes
         {
             DateTime dataConvertida;
 
-            if (DateTime.TryParse(dataNasc, out dataConvertida);)
+            if (DateTime.TryParse(dataNasc, out dataConvertida))
             {
                 DateTime dataAtual = DateTime.Today;
 
@@ -53,6 +48,7 @@ namespace UC12_BackEnd.Classes
 
                 return false;
             }
+            return false;
         }
     }
 }
