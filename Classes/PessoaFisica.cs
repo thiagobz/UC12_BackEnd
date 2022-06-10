@@ -17,6 +17,7 @@ namespace UC12_BackEnd.Classes
             throw new NotImplementedException();
         }
 
+        // implementa uma função de validação de idade.
         public bool validarDataNasc(DateTime dataNasc)
         {
             DateTime dataAtual = DateTime.Today;
