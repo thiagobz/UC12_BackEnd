@@ -1,7 +1,9 @@
 namespace UC12_BackEnd.Interfaces
 {
-    public interface Pessoa
+    public interface IPessoa
     {
-         float PagarImpostos(float rendimento);
+        float pagaImposto(float rendimento);
     }
 }
+
+//Interface é apenas um contrato informando métodos que será utilizada pela Classe

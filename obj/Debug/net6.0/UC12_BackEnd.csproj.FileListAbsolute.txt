@@ -1,0 +1,15 @@
+C:\Github\UC12_BackEnd\obj\Debug\net6.0\UC12_BackEnd.csproj.AssemblyReference.cache
+C:\Github\UC12_BackEnd\obj\Debug\net6.0\UC12_BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\UC12_BackEnd\obj\Debug\net6.0\UC12_BackEnd.AssemblyInfoInputs.cache
+C:\Github\UC12_BackEnd\obj\Debug\net6.0\UC12_BackEnd.AssemblyInfo.cs
+C:\Github\UC12_BackEnd\obj\Debug\net6.0\UC12_BackEnd.csproj.CoreCompileInputs.cache
+C:\Github\UC12_BackEnd\bin\Debug\net6.0\UC12_BackEnd.exe
+C:\Github\UC12_BackEnd\bin\Debug\net6.0\UC12_BackEnd.deps.json
+C:\Github\UC12_BackEnd\bin\Debug\net6.0\UC12_BackEnd.runtimeconfig.json
+C:\Github\UC12_BackEnd\bin\Debug\net6.0\UC12_BackEnd.dll
+C:\Github\UC12_BackEnd\bin\Debug\net6.0\UC12_BackEnd.pdb
+C:\Github\UC12_BackEnd\obj\Debug\net6.0\UC12_BackEnd.dll
+C:\Github\UC12_BackEnd\obj\Debug\net6.0\refint\UC12_BackEnd.dll
+C:\Github\UC12_BackEnd\obj\Debug\net6.0\UC12_BackEnd.pdb
+C:\Github\UC12_BackEnd\obj\Debug\net6.0\UC12_BackEnd.genruntimeconfig.cache
+C:\Github\UC12_BackEnd\obj\Debug\net6.0\ref\UC12_BackEnd.dll
