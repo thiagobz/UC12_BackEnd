@@ -28,7 +28,9 @@ namespace UC12_BackEnd.Classes
 
         public bool validaCnpj(string cnpj)
         {
-            throw new NotImplementedException();
+            throw new NotImplementedException();    
+
+
         }
     }
 }
