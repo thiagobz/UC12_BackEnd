@@ -89,6 +89,7 @@ do
             novoEndPJ.endComercial = true;
 
             novoPJ.Endereco = novoEndPJ;
+            novoPJ.validaCnpj(novoPJ.Cnpj);
 
 
             Console.WriteLine(
